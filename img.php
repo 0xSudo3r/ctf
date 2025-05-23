@@ -1,0 +1,1 @@
+echo "<scirpt>alert();</scirpt>";
